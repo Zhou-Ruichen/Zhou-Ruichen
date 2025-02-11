@@ -1,7 +1,5 @@
 # Welcome to Ruichen Zhou's GitHub Profile!
 
-![Header](https://your-image-url.com/header.png)
-
 ## About Me
 
 Hello! I'm **Ruichen Zhou**, a passionate researcher and developer with a love for coding and technology. I enjoy working on geophysical and environmental analysis using advanced data processing and machine learning techniques.
