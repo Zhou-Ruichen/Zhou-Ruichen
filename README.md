@@ -28,7 +28,7 @@ Hello! I'm **Ruichen Zhou**, a passionate researcher and developer with a love f
 
 ## Publications
 
-- **Zhou, R.**, Guo, J., Ya, S., Sun, H., and Liu, X. (2025). SDUST2023VGGA: A Global Ocean vertical gradient of gravity anomaly model determined from multidirectional data from mean sea surface. *Earth System Science Data*. 17, 817–836. [https://doi.org/10.5194/essd-17-817-2025](https://doi.org/10.5194/essd-17-817-2025)
+- **Zhou, R.**, Guo, J., Ya, S., Sun, H., and Liu, X. (2025). SDUST2023VGGA: A Global Ocean vertical gradient of gravity anomaly model determined from multidirectional data from mean sea surface. *Earth System Science Data*. 17(3), 817–836. [https://doi.org/10.5194/essd-17-817-2025](https://doi.org/10.5194/essd-17-817-2025)
 - **Zhou, R.**, Guo, J., Ya, S., Sun, H., & Liu, X. (2024). SDUST2023VGGA (V1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14177000](https://doi.org/10.5281/zenodo.14177000)
 - **Zhou, R.**, Liu, X., Guo, J., Hwang, C., Jia, Y., Chang, X., & Sun, H. (2024). Inverting vertical gravity anomaly gradients using multidirectional data from mean sea surface model: A case of Arabian Sea. *Earth, Planets and Space*, 76(1). [https://doi.org/10.1186/s40623-024-02105-5](https://doi.org/10.1186/s40623-024-02105-5)
 - **Zhou, R.**, Liu, X., Li, Z., Sun, Y., Yuan, J., Guo, J., & Ardalan, A A. (2023). On performance of vertical gravity gradient determined from CryoSat-2 altimeter data over Arabian Sea. *Geophysical Journal International*, 234(2), 1519-1529. [https://doi.org/10.1093/gji/ggad153](https://doi.org/10.1093/gji/ggad153)
