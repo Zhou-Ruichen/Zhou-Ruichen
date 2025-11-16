@@ -1,8 +1,8 @@
 ## Ruichen Zhou
 
-Joint PhD Student at University of Chinese Academy of Sciences (UCAS) and University of Stuttgart
+PhD Student at University of Chinese Academy of Sciences (UCAS) · Joint Training at University of Stuttgart
 
-**Research**: Satellite altimetry, gravity anomaly inversion, mean sea surface modeling  
+**Research**: Satellite altimetry, gravity anomaly inversion, mean sea surface modeling
 **Tech**: Python, MATLAB, TensorFlow, PyTorch
 
 🌐 [ruichenzhou.com](https://ruichenzhou.com) · 📝 [Blog](https://ruichenzhou.com/blog) · 📧 [ruichenzhou@outlook.com](mailto:ruichenzhou@outlook.com) · 🎓 [Google Scholar](https://scholar.google.com/citations?user=elWPGGAAAAAJ&hl=en)
@@ -48,6 +48,6 @@ Joint PhD Student at University of Chinese Academy of Sciences (UCAS) and Univer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zhou-Ruichen&color=blue&style=flat)
 
-*Last updated: November 2024*
+*Last updated: November 2025*
 
 </div>
