@@ -1,63 +1,93 @@
-# Welcome to Ruichen Zhou's GitHub Profile!
+# Hi there, I'm Ruichen Zhou 👋
 
-## About Me
+<div align="center">
 
-Hello! I'm **Ruichen Zhou**, a passionate researcher and developer with a love for coding and technology. I enjoy working on geophysical and environmental analysis using advanced data processing and machine learning techniques.
+[![Personal Website](https://img.shields.io/badge/🌐_Personal_Website-ruichenzhou.com-blue?style=for-the-badge)](https://ruichenzhou.com/)
+[![Blog](https://img.shields.io/badge/📝_Tech_Blog-Visit-orange?style=for-the-badge)](https://ruichenzhou.com/blog)
+[![Email](https://img.shields.io/badge/Email-ruichenzhou@outlook.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruichenzhou@outlook.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=elWPGGAAAAAJ&hl=en)
 
-- 🔭 I’m currently working on: [Ph.D. in Surveying and Mapping](https://example.com)
-- 🌱 I’m currently learning: Deep Learning and its applications in geophysics
-- 👯 I’m looking to collaborate on: Research projects related to satellite altimetry and remote sensing
-- 🤔 I’m looking for help with: Advanced machine learning techniques for geophysical data
-- 💬 Ask me about: Geophysical simulations, satellite altimetry, and data processing
-- 📫 How to reach me: [ruichenzhou@outlook.com](mailto:ruichenzhou@outlook.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking and exploring new places
+</div>
 
-## Education
+## 🎓 About Me
 
-- **Ph.D. in Surveying and Mapping** (2024--Present)  
-  University of Chinese Academy of Sciences  
-  *Supervisor: Haoming Yan, Researcher*
+I'm a **PhD student** specializing in **satellite altimetry** and **deep learning** applications in geophysics:
 
-- **M.S. in Surveying and Mapping Engineering** (2021--2024)  
-  Shandong University of Science and Technology  
-  *Supervisor: Jinyun Guo, Prof.*
+- 🔬 **Current Position**: Joint PhD Student at University of Chinese Academy of Sciences (UCAS) and University of Stuttgart
+- 🌊 **Research Focus**: Satellite altimetry data processing, gravity anomaly inversion, mean sea surface modeling
+- 🤖 **Tech Stack**: Python (NumPy, Pandas, TensorFlow, PyTorch), MATLAB, Deep Learning
+- 📝 **Blog**: Writing about network infrastructure, Linux operations, and technical problem-solving
+- 🌍 **Location**: Currently based in Stuttgart, Germany
 
-- **B.S. in Surveying and Mapping Engineering** (2017--2021)  
-  Linyi University
+## 🚀 Recent Work
 
-## Publications
+- 🛰️ Developed **SDUST2023VGGA** - A global ocean vertical gravity gradient model
+- 📊 Published in *Earth System Science Data* and *Geophysical Journal International*
+- 🔧 Maintaining technical blog covering Tailscale, AdGuard Home, OpenWrt, and more
 
-- **Zhou, R.**, Guo, J., Ya, S., Sun, H., and Liu, X. (2025). SDUST2023VGGA: A Global Ocean vertical gradient of gravity anomaly model determined from multidirectional data from mean sea surface. *Earth System Science Data*. 17(3), 817–836. [https://doi.org/10.5194/essd-17-817-2025](https://doi.org/10.5194/essd-17-817-2025)
-- **Zhou, R.**, Guo, J., Ya, S., Sun, H., & Liu, X. (2024). SDUST2023VGGA (V1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.14177000](https://doi.org/10.5281/zenodo.14177000)
-- **Zhou, R.**, Liu, X., Guo, J., Hwang, C., Jia, Y., Chang, X., & Sun, H. (2024). Inverting vertical gravity anomaly gradients using multidirectional data from mean sea surface model: A case of Arabian Sea. *Earth, Planets and Space*, 76(1). [https://doi.org/10.1186/s40623-024-02105-5](https://doi.org/10.1186/s40623-024-02105-5)
-- **Zhou, R.**, Liu, X., Li, Z., Sun, Y., Yuan, J., Guo, J., & Ardalan, A A. (2023). On performance of vertical gravity gradient determined from CryoSat-2 altimeter data over Arabian Sea. *Geophysical Journal International*, 234(2), 1519-1529. [https://doi.org/10.1093/gji/ggad153](https://doi.org/10.1093/gji/ggad153)
+## 🛠️ Tech Stack
 
-## Programs
+```python
+expertise = {
+    "languages": ["Python", "MATLAB", "Bash"],
+    "ml_dl": ["TensorFlow", "PyTorch", "scikit-learn"],
+    "data": ["NumPy", "Pandas", "Matplotlib"],
+    "tools": ["Git", "Docker", "Linux", "LaTeX"],
+    "gis": ["ArcGIS", "GMT", "Google Earth Engine"]
+}
+```
 
-- **NSFC Project**, *Researcher* (2021--2024)  
-  Waveform Reprocessing for Coastal Satellite Altimetry Using Singular Spectrum Analysis
-- **NSFC Major Project**, *Researcher* (2021--2024)  
-  Fine Modeling of Global Seabed Topography for Gravity Field Applications
-- **NSFC Project**, *Researcher* (2021--2024)  
-  New Method for All-Weather Measurement of Deflection of the Vertical Using 3D Laser Tracking Technology
+## 📈 GitHub Stats
 
-## Skills
+<div align="center">
 
-- **Programming Languages**: Python (NumPy, Pandas, TensorFlow, PyTorch), MATLAB (Signal processing, Geophysical simulations), C# (WinForms, .NET)
-- **Data Processing & Machine Learning**: Machine Learning (Regression, Clustering, Neural networks), Deep Learning (CNNs, RNNs), Statistical Analysis (Multivariate analysis, Hypothesis testing, Time series analysis), Data Visualization (Matplotlib, Seaborn, Tableau)
-- **Tools & Technologies**: Git, Docker, GMT, ArcGIS, Google Earth Engine, Jupyter Notebooks, LaTeX
+![Ruichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhou-Ruichen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-## Interests
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhou-Ruichen&layout=compact&theme=tokyonight&hide_border=true)
 
-Research on applying deep learning to satellite altimetry and remote sensing data for enhanced environmental and geophysical analysis.
+</div>
 
-## Connect with Me
+## 📚 Featured Publications
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-- [![Email](https://img.shields.io/badge/-Email-gray?style=flat&logo=gmail&logoColor=white)](mailto:ruichenzhou@outlook.com)
-- [![ResearchGate](https://img.shields.io/badge/-ResearchGate-green?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Ruichen-Zhou-2)
-- [![Personal Website](https://img.shields.io/badge/-Personal%20Website-blue?style=flat&logo=internet-explorer)](https://zhou-ruichen.github.io/)
+1. **Zhou, R.**, et al. (2025). SDUST2023VGGA: A global ocean vertical gradient of gravity anomaly model. *Earth System Science Data*, 17(3), 817–836. [`DOI`](https://doi.org/10.5194/essd-17-817-2025)
 
-*Last updated in February 2025*
+2. **Zhou, R.**, et al. (2024). Inverting vertical gravity anomaly gradients using multidirectional data. *Earth, Planets and Space*, 76(1). [`DOI`](https://doi.org/10.1186/s40623-024-02105-5)
+
+3. **Zhou, R.**, et al. (2023). On performance of vertical gravity gradient determined from CryoSat-2 altimeter data. *Geophysical Journal International*, 234(2), 1519-1529. [`DOI`](https://doi.org/10.1093/gji/ggad153)
+
+👉 [View all publications on my website](https://ruichenzhou.com/#publications)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [使用 VSCode Timeline 恢复被误删的代码](https://ruichenzhou.com/blog/251115_recover_code_by_vscode/)
+- [一次关于德国垃圾分类的实测](https://ruichenzhou.com/blog/251113_non-Pfand/)
+- [优化 Tailscale 网络](https://ruichenzhou.com/blog/251113_Optimize%20tailscale%20network/)
+- [在德国补交银行税号](https://ruichenzhou.com/blog/251101_Deutsche_Bank_Steuer-ID/)
+- [OpenWrt 路由器部署 AdGuard Home](https://ruichenzhou.com/blog/251110_Adguard_Home/)
+<!-- BLOG-POST-LIST:END -->
+
+🔗 [Read more on my blog](https://ruichenzhou.com/blog)
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/-ruichenzhou.com-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://ruichenzhou.com/)
+[![Email](https://img.shields.io/badge/-ruichenzhou@outlook.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ruichenzhou@outlook.com)
+[![GitHub](https://img.shields.io/badge/-Zhou--Ruichen-181717?style=flat&logo=github)](https://github.com/Zhou-Ruichen)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=elWPGGAAAAAJ&hl=en)
+
+</div>
+
+---
+
+<div align="center">
+
+💡 *"Combining geophysics with machine learning to understand our planet better"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=Zhou-Ruichen&color=blue&style=flat)
+
+*Last updated: November 2024*
+
+</div>
